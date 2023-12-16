@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Moutaouif</h1>
 <h3 align="center">A passionate backend developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-moutaouif-b56495228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-moutaouif-b56495228/" height="30" width="40" /></a>
