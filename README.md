@@ -1,26 +1,30 @@
 <h1 align="center">Hi 👋, I'm Ahmed Moutaouif</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer</h3>
+<h3 align="center">🚀 Full-Stack Developer | Intelligent Systems Student</h3>
 
 <p align="center">
-  I design and build complete web applications — from <b>robust backends</b> to <b>clean, user-friendly frontends</b>.
+  I build complete and scalable web applications — from <b>robust backends</b> to 
+  <b>modern, responsive frontends</b>.  
+  Currently studying <b>Intelligent Systems</b> and passionate about smart, efficient software solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack web applications**
-- 🌱 I’m continuously improving my skills in **backend architecture & modern frontend**
-- ⚡ I enjoy building **scalable, secure, and maintainable systems**
-- 💬 Ask me about **APIs, databases, backend logic, or full-stack projects**
+- 🎓 Student in **Intelligent Systems**
+- 💻 **Full-Stack Developer** (Backend & Frontend)
+- 🔭 Working on **web applications & APIs**
+- 🌱 Learning **AI concepts, system intelligence & advanced software architecture**
+- ⚡ Interested in **clean code, scalability, and performance**
+- 💬 Ask me about **Full-Stack development, APIs, Databases, or System Design**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmed-moutaouif-b56495228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -29,18 +33,28 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,cs,dotnet,java,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,java,spring,cs,dotnet,mysql,git" />
 </p>
 
 ---
 
 ## 🧩 What I Can Build
 
-- 🌐 Full-stack web applications  
-- ⚙️ RESTful APIs & backend services  
-- 🗄️ Database design & optimization  
-- 🔐 Authentication & authorization systems  
-- 🎨 Responsive and modern UI  
+- 🌐 Full-Stack Web Applications  
+- ⚙️ RESTful APIs & Backend Services  
+- 🗄️ Database Design & Optimization  
+- 🔐 Authentication & Authorization Systems  
+- 🎨 Responsive UI with modern frameworks  
+- 🤖 Intelligent systems & smart features (learning phase)
+
+---
+
+## 📚 Currently Studying
+
+- 🧠 Intelligent Systems  
+- 🤖 Artificial Intelligence fundamentals  
+- 📊 Data & decision-based systems  
+- 🧩 Problem solving & optimization  
 
 ---
 
@@ -56,4 +70,4 @@
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+⭐️ *Feel free to explore my repositories, star projects, and connect with me!*
