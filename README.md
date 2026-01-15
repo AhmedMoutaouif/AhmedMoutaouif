@@ -61,16 +61,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AhmedMoutaouif&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Ahmed's GitHub stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" 
-    alt="Top Languages" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMoutaouif&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AhmedMoutaouif&theme=dark&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
